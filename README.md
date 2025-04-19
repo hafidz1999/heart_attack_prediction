@@ -1,5 +1,3 @@
-Source: https://www.kaggle.com/datasets/ankushpanday2/heart-attack-prediction-in-indonesia/data
-
 # Heart Attack Risk Prediction - Indonesia
 
 A machine learning project aimed at helping doctors quickly assess heart attack risk using accessible patient data—cutting down the need for lengthy and expensive tests. This tool can be deployed onsite, especially in areas with limited medical resources.
